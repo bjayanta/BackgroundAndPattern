@@ -1,0 +1,13 @@
+section{
+    background: url('img/background.jpg') no-repeat;
+    background-size: cover;
+}
+
+div{
+    background: url('img/pattern.png');
+    padding: 50px;
+}
+
+p{
+    color: #fff;
+}
